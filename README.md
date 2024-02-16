@@ -5,4 +5,4 @@ Saya seorang Front End Developer di [Yayasan Sekolah Wirausaha Indonesia] (www.s
 
 Saya bertanggung jawab pada Ui Ux System Aplikasi Sekolah dengan dibekali sertifikasi dari Dicoding Indonesia.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun Linkedin
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ainun-madjid)
